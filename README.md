@@ -37,3 +37,17 @@ pip install -r requirements.txt
 python train.py
 
 python predict.py
+# Classification_butterfly" Dataset: https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
+#data structure
+Butterfly_Flask_Project
+│
+├── app.py                         
+├── butterfly_model.keras         
+├── class_indices.json            
+├── requirements.txt              
+├── README.md                     
+│
+├── templates/
+│   └── index.html                
+├── notebooks/
+│   └── butterfly_model.ipynb     
